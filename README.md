@@ -1,5 +1,5 @@
-# 💫 About Me:
-###👋 Hi, I'm Mukesh A<br><br>🎓 B.Sc. Computer Science Student<br>🎬 Aspiring Video Editor & Creative Designer<br>💻 Interested in Web Development & Creative Technology<br><br>I enjoy combining **technology and creativity** to build interesting digital experiences. My main interests are **video editing, graphic design, photography, cinematography, and web development**.<br><br>### 🛠️ Skills & Tools<br><br>* 🎬 Adobe Premiere Pro<br>* ✨ Adobe After Effects<br>* 🎨 Adobe Photoshop<br>* 💻 HTML, CSS & JavaScript<br>* ☕ Java<br>* 🗄️ SQL / Database Basics<br>* 📊 Excel<br><br>### 🚀 Currently Exploring<br><br>* Full Stack Development<br>* Creative Web Projects<br>* Video Editing & Motion Graphics<br>* Music & DJ Technology<br><br>> **Create. Edit. Code. Repeat. 🚀**<br>
+💫 About Me:
+👋 Hi, I'm Mukesh A<br><br>🎓 B.Sc. Computer Science Student<br>🎬 Aspiring Video Editor & Creative Designer<br>💻 Interested in Web Development & Creative Technology<br><br>I enjoy combining **technology and creativity** to build interesting digital experiences. My main interests are **video editing, graphic design, photography, cinematography, and web development**.<br><br> 🛠️ Skills & Tools<br><br>* 🎬 Adobe Premiere Pro<br>* ✨ Adobe After Effects<br>* 🎨 Adobe Photoshop<br>* 💻 HTML, CSS & JavaScript<br>* ☕ Java<br>* 🗄️ SQL / Database Basics<br>* 📊 Excel<br><br> 🚀 Currently Exploring<br><br>* Full Stack Development<br>* Creative Web Projects<br>* Video Editing & Motion Graphics<br>* Music & DJ Technology<br><br>> **Create. Edit. Code. Repeat. 🚀**<br>
 
 
 ## 🌐 Socials:
